@@ -1,0 +1,4 @@
+A MultiMediaCard MMC egy flash memória kártya
+rövid  dátum, a hét első napja , tízedes jegyek  száma , számjegyek csoportosítása , negatív számformátum
+A Windows és MacOS operációs rendszerek beépített szolgáltatása, ami lehetővé teszi a telepített hardvereszközök és a hozzájuk kapcsolódó meghajtóprogramok áttekintését és beállítását.
+tárhely nővelő 
