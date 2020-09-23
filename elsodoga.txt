@@ -1,4 +1,14 @@
-A MultiMediaCard MMC egy flash memória kártya
-rövid  dátum, a hét első napja , tízedes jegyek  száma , számjegyek csoportosítása , negatív számformátum
-A Windows és MacOS operációs rendszerek beépített szolgáltatása, ami lehetővé teszi a telepített hardvereszközök és a hozzájuk kapcsolódó meghajtóprogramok áttekintését és beállítását.
-tárhely nővelő 
+A csoport
+
+Mi a külömbség a teli és az üres elem között? (pl)
+
+Teli elemnek van zaró tagja És az üres elemnek nincs záró tagja.
+
+Sorolj fel három meta elemet!
+charset="UTF-8"
+<title></title>
+<a href="valami szöveg" target="_blank">valami szöveg.hu</a>
+
+Emmet utasítás átírása
+
+<p>példák: <span ez itt egy példa/span></p>
